@@ -1,0 +1,2 @@
+# CraftRiseAccountStealer
+ For education purposes.
